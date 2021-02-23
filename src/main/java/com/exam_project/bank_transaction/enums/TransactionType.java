@@ -1,4 +1,4 @@
-package com.exam_project.bnak_transaction.enums;
+package com.exam_project.bank_transaction.enums;
 
 public enum TransactionType {
 

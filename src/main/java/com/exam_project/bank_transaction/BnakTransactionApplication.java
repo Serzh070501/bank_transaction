@@ -1,4 +1,4 @@
-package com.exam_project.bnak_transaction;
+package com.exam_project.bank_transaction;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
